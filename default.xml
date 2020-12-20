@@ -21,6 +21,16 @@
            revision="Q"
 	       review="" />
 
+  <remote  name="ts"
+           fetch="https://github.com/Ten-Shine"
+           revision="Q"
+	       review="" />
+
+  <remote  name="exthm"
+           fetch="https://github.com/exthmui"
+           revision="refs/heads/exthm-10"
+	       review="" />
+
   <remote  name="bb"
            fetch="https://gitlab.com/rr-os"
            revision="Q"
