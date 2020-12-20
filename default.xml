@@ -21,6 +21,11 @@
            revision="Q"
 	       review="" />
 
+  <remote  name="ts"
+           fetch="https://github.com/Ten-Shine"
+           revision="Q"
+	       review="" />
+
   <remote  name="bb"
            fetch="https://gitlab.com/rr-os"
            revision="Q"

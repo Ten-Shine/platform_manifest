@@ -41,7 +41,7 @@
   <project path="packages/apps/RRWallpapers" name="packages_apps_RR_Wallpapers" remote="rr" />
 
   <!--Frameworks-->
-  <project path="frameworks/base" name="android_frameworks_base" remote="rr" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="ts" />
   <project path="frameworks/av" name="frameworks_av" remote="rr" />
   <project path="frameworks/native" name="frameworks_native" remote="rr" />
   <project path="frameworks/opt/slimrecent" name="frameworks_opt_slimrecent" remote="rr" />
