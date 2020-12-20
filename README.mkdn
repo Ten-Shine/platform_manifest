@@ -12,10 +12,12 @@ Sync
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b Q
+repo init -u https://github.com/Ten-Shine/platform_manifest.git -b Q
 
 # Sync
 repo sync --force-sync --no-clone-bundle
+# or you can
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
 Build
